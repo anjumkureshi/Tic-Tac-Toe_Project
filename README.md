@@ -1,2 +1,2 @@
 # Tic-Tac-Toe_Project
-Console application
+Console game application
